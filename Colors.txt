@@ -6,4 +6,8 @@ Green
 
 Blue
 
-Yellow
+Cyan
+
+Magenta
+
+Mahogany
